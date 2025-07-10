@@ -1,6 +1,6 @@
 import heartIcon from '../../asset/hearticon.png';
-import priceTag from '../../asset/hearticon.png';
-import chefIcon from '../../asset/hearticon.png';
+import priceTag from '../../asset/pricetag.png';
+import chefIcon from '../../asset/cheficon.png';
 
 export const Advertisement = () => {
     return (
@@ -9,7 +9,7 @@ export const Advertisement = () => {
                 <div className="row">
                     <div className="col-md-4">
                         <div className='divStyle'>
-                            <img className='header-icons' src={chefIcon} alt='chef icon' />
+                            <img className='chefIcon' src={chefIcon} alt='chef icon' />
                             <div>
                                 <h4>Freshly Prepared Meals</h4>
                                 <p>
@@ -23,7 +23,7 @@ export const Advertisement = () => {
 
                     <div className="col-md-4">
                         <div className='divStyle'>
-                            <img src={heartIcon} className='header-icons' alt='heart icon personal touch' />
+                            <img src={heartIcon} className='advert-icons' alt='heart icon personal touch' />
                             <div>
                                 <h4>Cooked with Love</h4>
                                 <p>
@@ -37,7 +37,7 @@ export const Advertisement = () => {
 
                     <div className="col-md-4">
                         <div className='divStyle'>
-                            <img className='header-icons' src={priceTag} alt='price tag' />
+                            <img className='advert-icons' src={priceTag} alt='price tag' />
                             <div>
                                 <h4>Delicious & Affordable</h4>
                                 <p>

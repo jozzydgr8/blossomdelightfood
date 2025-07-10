@@ -9,8 +9,8 @@ import yamarita from '../asset/yamarita.png'
 
 export const meals = [
   {
-    title: 'Chicken Wings',
-    description: 'Crispy and juicy chicken wings, seasoned to perfection.',
+    title: 'Chicken',
+    description: 'Crispy and juicy chicken, seasoned to perfection.',
     image: chicken
   },
   {

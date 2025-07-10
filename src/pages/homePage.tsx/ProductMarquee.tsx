@@ -2,8 +2,8 @@ import Marquee from "react-fast-marquee"
 import { meals } from "../../shared/data"
 const Style={
     content:{
-        height:"180px", 
-        width:"180px", 
+        height:"130px", 
+        width:"130px", 
         borderRadius:'80%',
         backgroundSize:'cover',
         backgroundRepeat:'no-repeat',
@@ -13,7 +13,7 @@ const Style={
 }
 export const ProductMarquee = ()=>{
     return(
-        <section className="offwhite-section">
+        <section className="productMarqueeSection">
             <div className="container-fluid">
                 <Marquee speed={50}>
                     {meals.map((meal,index)=>(

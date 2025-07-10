@@ -11,7 +11,7 @@ const Style = {
 }
 export const Product = ()=>{
     return(
-        <section className="offwhite-section">
+        <section id="product">
             <div className="container-fluid">
                 <h2>We Serve</h2>
                 <Row gutter={[16,24]}>

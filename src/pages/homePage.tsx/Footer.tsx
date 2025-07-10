@@ -5,14 +5,14 @@ import { FacebookOutlined } from '@ant-design/icons';
 import { XOutlined } from '@ant-design/icons';
 export const Footer = ()=>{
     return(
-        <section id="footer" className='offwhite-section'>
+        <section id="footer">
             <div className="container-fluid">
                 <div className="row">
                     <div className="col-md-4">
                     <h4>Our Locations</h4>
-                        <EnvironmentOutlined/> Blossom Cakes, Blenco Supermarket. Lekki Epe ExpWay, Lagos <br/><br/>
                         <EnvironmentOutlined/> Blossom Delight, C7 Novare mall, Shoprite, sangotedo-Ajah, Lagos <br/><br/>
                         <EnvironmentOutlined/> Blossom House Km17, Opp Total Petrol Station Lekki-Epe ExpWay<br/><br/>
+                        <EnvironmentOutlined/> Blossom Cakes, Blenco Supermarket. Lekki Epe ExpWay, Lagos <br/><br/>
                         
                     </div>
 
@@ -40,7 +40,7 @@ export const Footer = ()=>{
                     <a><XOutlined/></a>
                 </div>
                 <br/> <br/>
-                <small>© Blossomcakes 2025</small>
+                <small><a href='https://jozzycodes.com' target='_blank'>© Blossomdelight 2025</a></small>
             </div>
         </section>
     )

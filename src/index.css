@@ -56,10 +56,10 @@ a{
   color: inherit;
 }
 section > .container-fluid{
-  padding: 5% 3%;
+  padding: 7% 5%;
 }
 nav .container-fluid{
-  padding: 1% 3%;
+  padding: 1% 5%;
 
 }
 
@@ -130,18 +130,45 @@ color: white!important;
     height: 340px;
   }
 }
-.advertisement{
-  background: linear-gradient(to bottom, white, whitesmoke);
-}
-.offwhite-section {
-  background: whitesmoke;
-}
 
-.header-icons{
+.advert-icons{
   width: 68px;
   height: 68px;
 }
+.chefIcon{
+  width: 100px;
+  height: 70px;
+}
 
+#footer, #product{
+  background: whitesmoke;
+  color: black;
+}
+@media (max-width:750px) {
+  .chefIcon{
+    width: 90px;
+    height: 60px;
+  }
+  .advert-icons{
+    width: 58px;
+    height: 58px;
+  }
+}
+
+.productMarqueeSection{
+   background: linear-gradient(to bottom, white, var(--bg-color));
+}
+
+
+
+
+
+
+/* quote section */
+.quotesection{
+  background: var(--bg-color);
+  color: white;
+}
 
 .footer-icons a {
   font-size: 35px;
