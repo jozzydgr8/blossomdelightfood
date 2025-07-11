@@ -10,9 +10,9 @@ export const Header = () => {
              <div className="headercontent">
                 <div className="headercontainer">
                     <div className="headercircle">
-                        <h3>Savor the flavor of freshness</h3>
-                        <h1>Welcome to</h1>
-                        <h1>Blossom Delight</h1>
+                        <h4>Savor the flavor of freshness</h4>
+                        <h1 className="alternatetext">Welcome to</h1>
+                        <h1>BLOSSOM DELIGHT</h1>
                         <div>
                             <FlatButton
                                 className="btnalternate btn-lg"
