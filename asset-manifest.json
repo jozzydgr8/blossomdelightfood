@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/blossomdelightfood/static/css/main.556612f2.css",
-    "main.js": "/blossomdelightfood/static/js/main.8429d8fe.js",
+    "main.css": "/blossomdelightfood/static/css/main.45dc8915.css",
+    "main.js": "/blossomdelightfood/static/js/main.8ce4eb2e.js",
     "static/js/453.70a143c7.chunk.js": "/blossomdelightfood/static/js/453.70a143c7.chunk.js",
     "static/media/jellofbackground.png": "/blossomdelightfood/static/media/jellofbackground.d6cd202a9b3cd00ca1f5.png",
     "static/media/circlebackground.png": "/blossomdelightfood/static/media/circlebackground.eb072a72a9cbd191ba3b.png",
@@ -15,12 +15,12 @@
     "static/media/ofadasauce.jpg": "/blossomdelightfood/static/media/ofadasauce.b4c57f8b7b629e7a3d56.jpg",
     "static/media/blossomcakes-removebg-preview.png": "/blossomdelightfood/static/media/blossomcakes-removebg-preview.0a31880364bc0a79a49c.png",
     "index.html": "/blossomdelightfood/index.html",
-    "main.556612f2.css.map": "/blossomdelightfood/static/css/main.556612f2.css.map",
-    "main.8429d8fe.js.map": "/blossomdelightfood/static/js/main.8429d8fe.js.map",
+    "main.45dc8915.css.map": "/blossomdelightfood/static/css/main.45dc8915.css.map",
+    "main.8ce4eb2e.js.map": "/blossomdelightfood/static/js/main.8ce4eb2e.js.map",
     "453.70a143c7.chunk.js.map": "/blossomdelightfood/static/js/453.70a143c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.556612f2.css",
-    "static/js/main.8429d8fe.js"
+    "static/css/main.45dc8915.css",
+    "static/js/main.8ce4eb2e.js"
   ]
 }
