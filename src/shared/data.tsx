@@ -5,7 +5,11 @@ import spaghetti from '../asset/spaghetti.png'
 import ofadaSauce from '../asset/ofadasauce.jpg';
 import whiterice from '../asset/whiterice.png';
 import turkey from '../asset/turkey.png';
-import yamarita from '../asset/yamarita.png'
+import yamarita from '../asset/yamarita.png';
+import meatpie from '../asset/meatpie.jpeg';
+import icecream from '../asset/icecream.jpeg';
+import doughnut from '../asset/doughnut.jpeg';
+import bowlofrice from '../asset/bowlofrice.jpeg';
 
 export const meals = [
   {

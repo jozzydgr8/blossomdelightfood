@@ -13,7 +13,11 @@ body {
   background:var(--bg-color) !important;
   cursor: pointer;
 }
-.btnalternate, .btnalternat:hover{
+.btnoutline, .btnoutline:hover{
+  border:solid 1px white;
+  color: white;
+}
+.btnalternate, .btnalternate:hover{
   color: white !important;
   background-color: var(--bg-color-transparent) !important;
 }
@@ -158,6 +162,13 @@ color: white;
     width: 58px;
     height: 58px;
   }
+}
+
+/* about about */
+.aboutcontainer{
+  background: var(--bg-color);
+  color: white;
+  padding:30px;
 }
 
 .productMarqueeSection{

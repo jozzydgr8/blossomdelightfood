@@ -2,7 +2,7 @@ import {EnvironmentOutlined, SendOutlined}from '@ant-design/icons';
 import { WhatsAppOutlined } from '@ant-design/icons';
 import { InstagramOutlined } from '@ant-design/icons';
 import { FacebookOutlined } from '@ant-design/icons';
-import { XOutlined } from '@ant-design/icons';
+import { TikTokOutlined } from '@ant-design/icons';
 export const Footer = ()=>{
     return(
         <section id="footer">
@@ -34,10 +34,10 @@ export const Footer = ()=>{
                 </div>
                 <br/> <br/>
                 <div className='footer-icons'>
-                    <a href='https://wa.link/o2oy0h' target='_blank'><WhatsAppOutlined/></a>
-                    <a href='https://www.instagram.com/blossomcakes_delights_ng/' target='_blank'><InstagramOutlined/></a>
-                    <a><FacebookOutlined/></a>
-                    <a><XOutlined/></a>
+                    <a href='https://wa.link/o2oy0h' target='_blank' rel='no-referrer'><WhatsAppOutlined/></a>
+                    <a href='https://www.instagram.com/blossom_delight_restaurant/' target='_blank' rel='no-referrer'><InstagramOutlined/></a>
+                    <a href='https://web.facebook.com/profile.php?id=61572305035694' target='_blank' rel='no-referrer'><FacebookOutlined/></a>
+                    <a href='https://www.tiktok.com/@blossomdelightrestaurant' target='_blank' rel='no-referrer'><TikTokOutlined/></a>
                 </div>
                 <br/> <br/>
                 <small><a href='https://jozzycodes.com' target='_blank'>© Blossomdelight 2025</a></small>
