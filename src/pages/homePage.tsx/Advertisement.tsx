@@ -10,7 +10,7 @@ export const Advertisement = () => {
                     <div className="col-md-4">
                         <div className='divStyle'>
                             <img className='chefIcon' src={chefIcon} alt='chef icon' />
-                            <div>
+                            <div className='animate-up'>
                                 <h4>Freshly Prepared Meals</h4>
                                 <p>
                                     Every dish is made with carefully selected, fresh ingredients.
@@ -24,7 +24,7 @@ export const Advertisement = () => {
                     <div className="col-md-4">
                         <div className='divStyle'>
                             <img src={heartIcon} className='advert-icons' alt='heart icon personal touch' />
-                            <div>
+                            <div className='animate-up'>
                                 <h4>Cooked with Love</h4>
                                 <p>
                                     Our meals are crafted with care and passion.
@@ -38,7 +38,7 @@ export const Advertisement = () => {
                     <div className="col-md-4">
                         <div className='divStyle'>
                             <img className='advert-icons' src={priceTag} alt='price tag' />
-                            <div>
+                            <div className='animate-up'>
                                 <h4>Delicious & Affordable</h4>
                                 <p>
                                     Great food doesn’t have to cost a fortune. 

@@ -1,5 +1,5 @@
 import Marquee from "react-fast-marquee"
-import { meals } from "../../shared/data"
+import { mealMarquee } from "../../shared/data"
 const Style={
     content:{
         height:"130px", 
@@ -16,7 +16,7 @@ export const ProductMarquee = ()=>{
         <section className="productMarqueeSection">
             <div className="container-fluid">
                 <Marquee speed={50}>
-                    {meals.map((meal,index)=>(
+                    {mealMarquee.map((meal,index)=>(
                         <div style={{backgroundImage:`url(${meal.image})`,...Style.content}}>
 
                         </div>

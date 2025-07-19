@@ -1,5 +1,5 @@
 import { FlatButton } from "../../shared/FlatButton";
-import demoImage from '../../asset/friedrice-chicken.jpeg';
+import demoImage from '../../asset/friedrice-chicken.png';
 
 const Style = {
     background: {
@@ -7,7 +7,7 @@ const Style = {
         backgroundSize: 'cover',
         backgroundPosition: 'center center',
         backgroundRepeat: 'no-repeat',
-        minHeight: '400px',
+        minHeight: '350px',
     }
 };
 
@@ -15,7 +15,7 @@ export const About = () => {
     return (
         <section>
             <div className="container-fluid">
-                <h2>About Us</h2>
+                <h2 className="animate-left">About Us</h2>
                 <div className="row">
 
                     <div className="col-md-6" style={Style.background}>
@@ -23,6 +23,7 @@ export const About = () => {
                     </div>
                     <div className="col-md-6 aboutcontainer">
                         <h3 style={{color:"white"}}>Welcome to Blossom Delight</h3>
+                        <div className="animate-up">
                         <p>
                             At Blossom Delight, we bring you meals made with passion, flavor, and the freshest ingredients. 
                             From traditional favorites to modern twists, our dishes are crafted to satisfy every craving. 
@@ -30,7 +31,8 @@ export const About = () => {
                         </p>
                         <div>
                             <FlatButton title="Message Us" className="btnoutline" />
-                            <a href="tel:08123456789" style={{ marginLeft: '10px' }}>081 2345 6789</a>
+                            <a href='tel:08033122214' style={{ marginLeft: '10px' }}>+234 803 312 2214 </a>
+                        </div>
                         </div>
                     </div>
                 </div>

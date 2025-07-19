@@ -17,7 +17,7 @@ export const Product = ()=>{
                 <Row gutter={[16,24]}>
                 {
                     meals.map((meal,index)=>(
-                        <Col lg={6} md={8} sm={24} xs={24} key={index}>
+                        <Col lg={6} md={8} sm={24} xs={24} key={index} className='animate-up'>
                             <div style={{...Style.content, backgroundImage:`url(${meal.image})`}}>
 
                             </div>
