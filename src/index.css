@@ -41,7 +41,7 @@ h3, h4, h2{
 
 .bebas-neue{
     color: transparent;
-  -webkit-text-stroke:2px var(--bg-color-transparent);
+  -webkit-text-stroke:2px #e10600;
   font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
   font-size: 100px;
@@ -74,16 +74,16 @@ nav .container-fluid{
 
 
 .navbar-brand img{
-  width:60%;
+  width:40%;
 
 }
 @media (max-width:750px) {
   .navbar-brand img{
-    width:80%;
+    width:60%;
   
   }
   .navbar-brand{
-    width: 70%;
+    width: 50%;
 
   }
 }
@@ -101,11 +101,16 @@ nav .container-fluid{
  position: relative;
   height: 100%;
 }
-.headercontent{ height:100%; position:absolute; top:-127px; left:0; right:0;};
+.headercontent{ height:100%; position:absolute; top:-196px; left:0; right:0;};
 @media (max-width: 991.98px) {
   .headercontent,.headerrelative{
     position: static;
-  }}
+  }
+.headercontent{
+    top:-150px
+  }
+}
+  
 .headercontainer  *{
 color: white;
 }

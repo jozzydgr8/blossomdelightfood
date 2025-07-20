@@ -13,6 +13,7 @@ export const Footer = ()=>{
                         <EnvironmentOutlined/> Blossom Delight, C7 Novare mall, Shoprite, sangotedo-Ajah, Lagos <br/><br/>
                         <EnvironmentOutlined/> Blossom House Km17, Opp Total Petrol Station Lekki-Epe ExpWay<br/><br/>
                         <EnvironmentOutlined/> Blossom Cakes, Blenco Supermarket. Lekki Epe ExpWay, Lagos <br/><br/>
+                        <EnvironmentOutlined/> Blossom Delight Foods OJAJA Mall Ogombo. Opp Lekki Scheme 2<br/><br/>
                         
                     </div>
 
