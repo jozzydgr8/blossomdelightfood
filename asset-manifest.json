@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/blossomdelightfood/static/css/main.fb36a217.css",
-    "main.js": "/blossomdelightfood/static/js/main.7ba49261.js",
+    "main.css": "/blossomdelightfood/static/css/main.f612aa9c.css",
+    "main.js": "/blossomdelightfood/static/js/main.481fffe5.js",
     "static/js/453.70a143c7.chunk.js": "/blossomdelightfood/static/js/453.70a143c7.chunk.js",
     "static/media/friedrice-chicken.png": "/blossomdelightfood/static/media/friedrice-chicken.fb04a69c9dd283e94409.png",
     "static/media/jellofbackground.png": "/blossomdelightfood/static/media/jellofbackground.d6cd202a9b3cd00ca1f5.png",
@@ -18,15 +18,15 @@
     "static/media/swallow.jpeg": "/blossomdelightfood/static/media/swallow.0825a580bdc5c48a3674.jpeg",
     "static/media/egusi.jpeg": "/blossomdelightfood/static/media/egusi.641b42a884d87540bc0a.jpeg",
     "static/media/meatpie.jpeg": "/blossomdelightfood/static/media/meatpie.d28c8986ca21a25e7a51.jpeg",
+    "static/media/blossomdelightlogo.png": "/blossomdelightfood/static/media/blossomdelightlogo.46434c712de0ca5a7a1f.png",
     "static/media/icecream.jpeg": "/blossomdelightfood/static/media/icecream.a4e08ba5f7eb33a773e8.jpeg",
-    "static/media/blossomcakes-removebg-preview.png": "/blossomdelightfood/static/media/blossomcakes-removebg-preview.0a31880364bc0a79a49c.png",
     "index.html": "/blossomdelightfood/index.html",
-    "main.fb36a217.css.map": "/blossomdelightfood/static/css/main.fb36a217.css.map",
-    "main.7ba49261.js.map": "/blossomdelightfood/static/js/main.7ba49261.js.map",
+    "main.f612aa9c.css.map": "/blossomdelightfood/static/css/main.f612aa9c.css.map",
+    "main.481fffe5.js.map": "/blossomdelightfood/static/js/main.481fffe5.js.map",
     "453.70a143c7.chunk.js.map": "/blossomdelightfood/static/js/453.70a143c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb36a217.css",
-    "static/js/main.7ba49261.js"
+    "static/css/main.f612aa9c.css",
+    "static/js/main.481fffe5.js"
   ]
 }
