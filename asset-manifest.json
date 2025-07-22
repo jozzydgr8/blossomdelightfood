@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/blossomdelightfood/static/css/main.69bb3b47.css",
-    "main.js": "/blossomdelightfood/static/js/main.6c84af4b.js",
+    "main.css": "/blossomdelightfood/static/css/main.2f85b465.css",
+    "main.js": "/blossomdelightfood/static/js/main.6107961c.js",
     "static/js/453.70a143c7.chunk.js": "/blossomdelightfood/static/js/453.70a143c7.chunk.js",
     "static/media/jellofbackground.png": "/blossomdelightfood/static/media/jellofbackground.71bd2dd725bbb6cb2f6d.png",
     "static/media/friedrice-chicken.png": "/blossomdelightfood/static/media/friedrice-chicken.0e4e1c804d63c48e792c.png",
     "static/media/bole.png": "/blossomdelightfood/static/media/bole.4b00fd958c0346d6c363.png",
     "static/media/ofada-rice.png": "/blossomdelightfood/static/media/ofada-rice.a18c300e80e0664a1622.png",
     "static/media/circlebackground.png": "/blossomdelightfood/static/media/circlebackground.07b01bc2c602ee09950f.png",
+    "static/media/peppersoup.jpg": "/blossomdelightfood/static/media/peppersoup.792fd7797030aec9e8c2.jpg",
     "static/media/turkey.png": "/blossomdelightfood/static/media/turkey.b567bc2d0f28a102c866.png",
+    "static/media/nativerice.jpg": "/blossomdelightfood/static/media/nativerice.f447ec10d2db3c676472.jpg",
+    "static/media/asunrice.jpg": "/blossomdelightfood/static/media/asunrice.f28806b0ca55033a61b8.jpg",
+    "static/media/chickenwing.jpg": "/blossomdelightfood/static/media/chickenwing.6e63fa9218ed0768029c.jpg",
     "static/media/ofadasauce.jpg": "/blossomdelightfood/static/media/ofadasauce.530e45d5adc43945da66.jpg",
     "static/media/spaghetti.png": "/blossomdelightfood/static/media/spaghetti.d966e663bb2885c19cc9.png",
+    "static/media/garnished-macaroni.jpg": "/blossomdelightfood/static/media/garnished-macaroni.5a9094a068bb784ab6ee.jpg",
     "static/media/jellofrice.png": "/blossomdelightfood/static/media/jellofrice.0b58aaa2d4f209aba571.png",
     "static/media/doughnut.jpeg": "/blossomdelightfood/static/media/doughnut.58ca7003b51edc2712e7.jpeg",
     "static/media/whiterice.png": "/blossomdelightfood/static/media/whiterice.086f956a0784d09d801a.png",
@@ -21,12 +26,12 @@
     "static/media/icecream.jpeg": "/blossomdelightfood/static/media/icecream.7c171ff1f4e65d943b9c.jpeg",
     "static/media/blossomdelightlogo.png": "/blossomdelightfood/static/media/blossomdelightlogo.8daf023e9d2a747c0b23.png",
     "index.html": "/blossomdelightfood/index.html",
-    "main.69bb3b47.css.map": "/blossomdelightfood/static/css/main.69bb3b47.css.map",
-    "main.6c84af4b.js.map": "/blossomdelightfood/static/js/main.6c84af4b.js.map",
+    "main.2f85b465.css.map": "/blossomdelightfood/static/css/main.2f85b465.css.map",
+    "main.6107961c.js.map": "/blossomdelightfood/static/js/main.6107961c.js.map",
     "453.70a143c7.chunk.js.map": "/blossomdelightfood/static/js/453.70a143c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69bb3b47.css",
-    "static/js/main.6c84af4b.js"
+    "static/css/main.2f85b465.css",
+    "static/js/main.6107961c.js"
   ]
 }
