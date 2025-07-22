@@ -14,6 +14,7 @@ export const Footer = ()=>{
                         <EnvironmentOutlined/> Blossom House Km17, Opp Total Petrol Station Lekki-Epe ExpWay<br/><br/>
                         <EnvironmentOutlined/> Blossom Cakes, Blenco Supermarket. Lekki Epe ExpWay, Lagos <br/><br/>
                         <EnvironmentOutlined/> Blossom Delight Foods OJAJA Mall Ogombo. Opp Lekki Scheme 2<br/><br/>
+                        <EnvironmentOutlined/> Shop c08 Cocoa Mall Dugbe Ibadan, Oyo state<br/><br/>
                         
                     </div>
 
@@ -29,8 +30,8 @@ export const Footer = ()=>{
                         <h4>Quick Links</h4>
                         <a href='tel:08033122214'>Call us now: +234 803 312 2214 </a>
                         <br/> <br/>
-                        <a href='https://wa.link/o2oy0h'>Send Us a message on Whatsapp <SendOutlined/></a><br/> <br/>
-                        <a href='#'>Our Cakes</a><br/><br/>
+                        <a href="https://wa.link/5n26d2" rel="no-referrer" target="_blank">Send Us a message on Whatsapp <SendOutlined/></a><br/> <br/>
+                        <a href='https://theblossomcakes.com' rel='no-referrer' target='_blank'>Our Cakes</a><br/><br/>
                     </div>
                 </div>
                 <br/> <br/>

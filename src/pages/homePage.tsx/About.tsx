@@ -13,7 +13,7 @@ const Style = {
 
 export const About = () => {
     return (
-        <section>
+        <section id="about">
             <div className="container-fluid">
                 <h2 className="animate-left">About Us</h2>
                 <div className="row">
@@ -30,7 +30,10 @@ export const About = () => {
                             Whether you're dining in, ordering out, or celebrating something special—we’re here to make it delicious.
                         </p>
                         <div>
+                            <a href="https://wa.link/5n26d2" rel="no-referrer" target="_blank">
                             <FlatButton title="Message Us" className="btnoutline" />
+                            </a>
+                            
                             <a href='tel:08033122214' style={{ marginLeft: '10px' }}>+234 803 312 2214 </a>
                         </div>
                         </div>

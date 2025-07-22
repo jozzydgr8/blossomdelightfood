@@ -22,11 +22,14 @@ export const Header = () => {
                         <h1 className="alternatetext">Welcome to</h1>
                         <h1>BLOSSOM DELIGHT</h1>
                         <div>
+                            <a href="https://wa.link/5n26d2" rel="no-referrer" target="_blank">
                             <FlatButton
                                 className="btnalternate btn-lg"
                                 title="Discover More"
                                 icon={<RightOutlined />}
                             />
+                            </a>
+                            
                         </div>
                     </div>
                 </div>
