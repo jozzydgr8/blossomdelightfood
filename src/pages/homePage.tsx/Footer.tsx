@@ -30,19 +30,19 @@ export const Footer = ()=>{
                         <h4>Quick Links</h4>
                         <a href='tel:08033122214'>Call us now: +234 803 312 2214 </a>
                         <br/> <br/>
-                        <a href="https://wa.link/5n26d2" rel="no-referrer" target="_blank">Send Us a message on Whatsapp <SendOutlined/></a><br/> <br/>
-                        <a href='https://theblossomcakes.com' rel='no-referrer' target='_blank'>Our Cakes</a><br/><br/>
+                        <a href="https://wa.link/5n26d2" rel="noreferrer" target="_blank">Send Us a message on Whatsapp <SendOutlined/></a><br/> <br/>
+                        <a href='https://theblossomcakes.com' rel='noreferrer' target='_blank'>Our Cakes</a><br/><br/>
                     </div>
                 </div>
                 <br/> <br/>
                 <div className='footer-icons'>
-                    <a href='https://wa.link/o2oy0h' target='_blank' rel='no-referrer'><WhatsAppOutlined/></a>
-                    <a href='https://www.instagram.com/blossom_delight_restaurant/' target='_blank' rel='no-referrer'><InstagramOutlined/></a>
-                    <a href='https://web.facebook.com/profile.php?id=61572305035694' target='_blank' rel='no-referrer'><FacebookOutlined/></a>
-                    <a href='https://www.tiktok.com/@blossomdelightrestaurant' target='_blank' rel='no-referrer'><TikTokOutlined/></a>
+                    <a href='https://wa.link/o2oy0h' target='_blank' rel='noreferrer'><WhatsAppOutlined/></a>
+                    <a href='https://www.instagram.com/blossom_delight_restaurant/' target='_blank' rel='noreferrer'><InstagramOutlined/></a>
+                    <a href='https://web.facebook.com/profile.php?id=61572305035694' target='_blank' rel='noreferrer'><FacebookOutlined/></a>
+                    <a href='https://www.tiktok.com/@blossomdelightrestaurant' target='_blank' rel='noreferrer'><TikTokOutlined/></a>
                 </div>
                 <br/> <br/>
-                <small><a href='https://jozzycodes.com' target='_blank'>© Blossomdelight 2025</a></small>
+                <small><a href='https://jozzycodes.com' target='_blank' rel='noreferrer'>© Blossomdelight 2025</a></small>
             </div>
         </section>
     )

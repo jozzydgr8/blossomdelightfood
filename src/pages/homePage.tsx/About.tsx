@@ -30,7 +30,7 @@ export const About = () => {
                             Whether you're dining in, ordering out, or celebrating something special—we’re here to make it delicious.
                         </p>
                         <div>
-                            <a href="https://wa.link/5n26d2" rel="no-referrer" target="_blank">
+                            <a href="https://wa.link/5n26d2" rel="noreferrer" target="_blank">
                             <FlatButton title="Message Us" className="btnoutline" />
                             </a>
                             

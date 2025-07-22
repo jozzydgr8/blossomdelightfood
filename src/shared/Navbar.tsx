@@ -20,11 +20,11 @@ function Navbar() {
         </li>
 
         <li className="nav-item">
-          <a className="nav-link" href="https://theblossomcakes.com" target='_blank'>Blossom Cakes</a>
+          <a className="nav-link" href="https://theblossomcakes.com" target='_blank' rel='noreferrer'>Blossom Cakes</a>
         </li>
         
         <li className="nav-item">
-          <a href="https://wa.link/5n26d2" rel="no-referrer" target="_blank"><button className="btn btn-danger">Message Us</button></a>
+          <a href="https://wa.link/5n26d2" rel="noreferrer" target="_blank"><button className="btn btn-danger">Message Us</button></a>
         
         </li>
       </ul>
