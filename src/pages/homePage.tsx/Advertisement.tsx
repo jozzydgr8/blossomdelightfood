@@ -42,7 +42,7 @@ export const Advertisement = () => {
                                 <h4>Delicious & Affordable</h4>
                                 <p>
                                     Great food doesn’t have to cost a fortune. 
-                                    Enjoy tasty, well-portioned meals that satisfy your cravings 
+                                    Enjoy tasty, well-portioned meals that will satisfy your cravings 
                                     without breaking the bank.
                                 </p>
                             </div>
