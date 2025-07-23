@@ -1,6 +1,6 @@
 import { Col, Row } from "antd"
 import { meals } from "../../shared/data"
-
+import Marquee from "react-fast-marquee";
 const Style = {
     content:{
         height:'200px',
@@ -16,7 +16,7 @@ export const Product = ()=>{
                 <h2>We Serve</h2>
                 <Row gutter={[16,24]}>
                 {
-                    meals.map((meal,index)=>(
+                    meals.slice(0,8).map((meal,index)=>(
                         <Col lg={6} md={8} sm={24} xs={24} key={index}>
                             <div style={{...Style.content, backgroundImage:`url(${meal.image})`}}>
 
@@ -29,6 +29,19 @@ export const Product = ()=>{
                     ))
                 }
                 </Row>
+                <div className="fade-marquee">
+                    <Marquee>
+                    {
+                        meals.slice(8,meals.length).map((meal,index)=>(
+                           <div key={index} style={{marginRight:"24px"}}>
+                                <div style={{...Style.content, backgroundImage:`url(${meal.image})`, width:"400px"}}>
+
+                                </div>
+                            </div> 
+                        ))
+                    }
+                </Marquee>
+                </div>
                 <div className="product-heading">
                 <h1>And More</h1>
                 <h3>

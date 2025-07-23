@@ -252,3 +252,10 @@ color: white;
   margin: 0 auto;
   color: #555;
 }
+.fade-marquee {
+  position: relative;
+  width: 100%;
+  mask-image: linear-gradient(to right, transparent, black 20%, black 80%, transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, black 20%, black 80%, transparent);
+  overflow: hidden;
+}

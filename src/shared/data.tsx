@@ -59,11 +59,7 @@ export const meals = [
     description: ' Ofada rice served with rich, spicy Ofada sauce',
     image: ofadaRice
   },
-   {
-    title: 'White Rice',
-    description: 'Steamed white rice, perfect as a base for your favorite sauce.',
-    image: whiterice
-  },
+   
   {
     title:"Garnished macaroni",
     description:"",
@@ -74,7 +70,11 @@ export const meals = [
     description: 'Savory spaghetti noodles cooked with a tasty tomato sauce.',
     image: spaghetti
   },
-  
+  {
+    title: 'White Rice',
+    description: 'Steamed white rice, perfect as a base for your favorite sauce.',
+    image: whiterice
+  },
  
   {
     title: 'Swallow',
