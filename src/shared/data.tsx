@@ -49,53 +49,11 @@ export const meals = [
     description:"",
     image:nativerice
   },
-  {
-    title: 'Jollof Rice',
-    description: 'Classic West African rice dish cooked in a rich tomato sauce.',
-    image: jellof
-  },
+  
   {
     title: 'Ofada Rice',
     description: ' Ofada rice served with rich, spicy Ofada sauce',
     image: ofadaRice
-  },
-   
-  {
-    title:"Garnished macaroni",
-    description:"",
-    image:garnishedmacaroni
-  },
-  {
-    title: 'Spaghetti',
-    description: 'Savory spaghetti noodles cooked with a tasty tomato sauce.',
-    image: spaghetti
-  },
-  {
-    title: 'White Rice',
-    description: 'Steamed white rice, perfect as a base for your favorite sauce.',
-    image: whiterice
-  },
- 
-  {
-    title: 'Swallow',
-    description: 'Smooth to the touch and perfect for scooping up rich, flavorful soups.',
-    image: swallow
-  },
-  
-  {
-    title: 'Bole',
-    description: 'roasted plantain with smoky caramelized edges, tender and sweet inside. A true delight."',
-    image: bole
-  },
-  {
-    title: 'Ofada Sauce',
-    description: 'Local pepper sauce made with assorted meat, served with Ofada rice.',
-    image: ofadaSauce
-  },
-  {
-    title:'Pepper soup',
-    description:"",
-    image:peppersoup
   },
   {
     title:"Ice Cream",
@@ -111,7 +69,53 @@ export const meals = [
     title:"Mince Pie",
     description:"",
     image:meatpie
-  }
+  },
+   
+  {
+    title:"Garnished macaroni",
+    description:"",
+    image:garnishedmacaroni
+  },
+  {
+    title: 'Spaghetti',
+    description: 'Savory spaghetti noodles cooked with a tasty tomato sauce.',
+    image: spaghetti
+  },
+  {
+    title: 'Swallow',
+    description: 'Smooth to the touch and perfect for scooping up rich, flavorful soups.',
+    image: swallow
+  },
+  {
+    title:'Pepper soup',
+    description:"",
+    image:peppersoup
+  },
+  {
+    title: 'White Rice',
+    description: 'Steamed white rice, perfect as a base for your favorite sauce.',
+    image: whiterice
+  },
+ 
+  
+  
+  {
+    title: 'Bole',
+    description: 'roasted plantain with smoky caramelized edges, tender and sweet inside. A true delight."',
+    image: bole
+  },
+  {
+    title: 'Ofada Sauce',
+    description: 'Local pepper sauce made with assorted meat, served with Ofada rice.',
+    image: ofadaSauce
+  },
+  
+  
+  {
+    title: 'Jollof Rice',
+    description: 'Classic West African rice dish cooked in a rich tomato sauce.',
+    image: jellof
+  },
 ];
 
 export const marqueeWrite = [
