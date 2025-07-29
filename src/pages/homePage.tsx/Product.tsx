@@ -30,7 +30,7 @@ export const Product = ()=>{
                 }
                 </Row>
                 <div>
-                    <Marquee>
+                    <Marquee direction="right">
                     {
                         meals.slice(12,meals.length).map((meal,index)=>(
                            <div key={index} style={{marginRight:"24px"}}>
