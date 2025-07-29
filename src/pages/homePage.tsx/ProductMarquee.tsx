@@ -15,7 +15,7 @@ export const ProductMarquee = ()=>{
     return(
         <section className="productMarqueeSection">
             <div className="container-fluid">
-                <Marquee speed={50}>
+                <Marquee speed={50} direction="right">
                     {mealMarquee.map((meal,index)=>(
                         <div style={{backgroundImage:`url(${meal.image})`,...Style.content}}>
 
