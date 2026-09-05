@@ -1,7 +1,7 @@
 import { Typography } from 'antd';
-import { MessageOutlined } from '@ant-design/icons';
 
-const { Title, Paragraph } = Typography;
+
+const {  Paragraph } = Typography;
 
 export const Quote = () => {
   return (
