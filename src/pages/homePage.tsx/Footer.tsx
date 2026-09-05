@@ -42,7 +42,10 @@ export const Footer = ()=>{
                     <a href='https://www.tiktok.com/@blossomdelightrestaurant' target='_blank' rel='noreferrer'><TikTokOutlined/></a>
                 </div>
                 <br/> <br/>
-                <small><a href='https://jozzycodes.com' target='_blank' rel='noreferrer'>© Blossomdelight 2025</a></small>
+                <small>© Blossomdelight {new Date().getFullYear()}</small>
+            <div>
+                <small > <a style={{color:'gray'}} href='https://jozzycodes.com'> website built by jozzycodes</a></small>
+            </div>
             </div>
         </section>
     )
